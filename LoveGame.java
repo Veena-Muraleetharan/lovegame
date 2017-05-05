@@ -26,10 +26,10 @@ import java.util.Iterator;
 public class LoveGame {
 
 	//reads the test file, at least to start with
-	public static String file = "test.txt"
+	public static String file = "test.txt";
 
 	//number of lines in the file 
-  	static int N =;  
+  	//static int N =;  
 
   	//initialize array for                 
     static String[]     taskNames;
