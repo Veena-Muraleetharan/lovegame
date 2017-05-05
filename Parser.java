@@ -1,9 +1,9 @@
 //************************************************************************
-// File: LoveGame.java         Final Project
+// File: Parser.java         Final Project
 // 
 // Author: <your name>             Email: <your email>
 //
-// Class: LoveGame
+// Class: Parser
 // Dependencies:  
 //
 // Description  :  <insert>
@@ -32,8 +32,8 @@ public class LoveGame {
   	static int N =;  
 
   	//initialize array for                 
-    static String[]     taskNames;
-    static long[]       taskDeadlines;
+    public static String[]     ID;
+    public static long[]       taskDeadlines;
   	public static void main(String[] args) {
 
   }

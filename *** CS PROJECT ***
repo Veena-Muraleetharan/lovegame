@@ -1,0 +1,40 @@
+*** CS PROJECT ***
+
+two people, one is you and the other is the potential love interest
+**start** count how many lines are in the file - number of texts 
+
+please input a filename
+
+
+ID	time	messagestring
+
+if next ID is different, then subtract times and record 
+take input as normal time - then convert time in nanoseconds 
+
+care about time from A's text to B's reply
+only take into account texts from the same day
+	- if there is a text from A followed by a text from B, substract and record time using nanoseconds
+
+counter
+	- do a counter on number of texts (double, triple, quadruple)
+
+sentiment analysis dictionary (include hahaha)
+	- set up another class that 
+	- words not in dictionary rated neutral
+	- four levels of rating:
+		- -2 is the worst
+		- -1 is dislike
+		- 0 when not in dictionary
+		- 1 when good
+		- 2 when great
+
+	- simple emojis 
+
+text length between person B's ID and person A's ID
+	- measured by words, not characters
+	- emojis count as words
+
+
+look at how to make an array of indefinite size
+
+GLOBAL VARIABLES 
