@@ -34,6 +34,10 @@ text length between person B's ID and person A's ID
 	- measured by words, not characters
 	- emojis count as words
 
+Should have an output file with a report in it
+
+
+
 
 look at how to make an array of indefinite size
 

@@ -1,5 +1,4 @@
 VPOS
-
 Baby
 Babe
 Love
@@ -23,9 +22,7 @@ Perfect
 Kiss
 Hug
 
-
 POS
-
 Like
 Nice
 Cool
@@ -35,9 +32,9 @@ Good
 Friend
 Yay
 :) 
+Lol
 
 NEG
-
 Meh
 Eh
 Ugh
@@ -51,7 +48,6 @@ Mean
 :'(
 
 VNEG
-
 Hate
 Fuck
 Disgusting
